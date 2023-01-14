@@ -1,7 +1,7 @@
 # tools.wetware.pl
 
 
-## how ChatGPT can help you take your SEO to the next level.
+## how Chat can help you take your SEO to the next level.
 
 + "Generate a list of related keywords for [topic]"
 + "Identify long-tail keywords for [topic] content optimization"
@@ -55,7 +55,7 @@
 + "Find the best keywords for [topic] social media optimization"
 
 
-## Here are 10 interesting ChatGPT use cases
+## Here are 10 interesting Chat use cases
 
 1. Connect your ChatGPT with your Whatsapp.
 Link: http://bit.ly/3ZfmyzC
