@@ -2,7 +2,14 @@
 
 tools.wetware.pl - nasze narzędzia, software, hardware, ...
 
-+ [Chat GPT use cases](https://tools.wetware.pl/chatgpt.html)
+## AI chats
+
++ [Jasper Chat | AI Chat for Content Creators](https://www.jasper.ai/chat)
++ 
+
+## Examples
+
++ [Chat GPT use cases](https://tools.wetware.pl/chat.html)
 
 
 ---
