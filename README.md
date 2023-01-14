@@ -2,14 +2,23 @@
 
 tools.wetware.pl - nasze narzędzia, software, hardware, ...
 
+## Menu
+
++ [wetware-pl - cotygodniowe spotkania entuzjastów integracji człowieka i maszyn](https://www.wetware.pl/)
+
+
 ## AI chats
 
 + [Jasper Chat | AI Chat for Content Creators](https://www.jasper.ai/chat)
 + [Chat GPT](https://chat.openai.com/auth/login)
 
+
 ## Examples
 
-+ [Chat GPT use cases](https://tools.wetware.pl/chat.html)
+Przykłady użycia
+
+
++ [Chat use cases](https://tools.wetware.pl/chat.html)
 
 
 ---
