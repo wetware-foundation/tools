@@ -2,6 +2,7 @@
 
 tools.wetware.pl - nasze narzędzia, software, hardware, ...
 
+
 ## Menu
 
 + [wetware-pl - cotygodniowe spotkania entuzjastów integracji człowieka i maszyn](https://www.wetware.pl/)
@@ -17,7 +18,7 @@ tools.wetware.pl - nasze narzędzia, software, hardware, ...
 
 Przykłady użycia
 
-
++ [Login Writesonic - Best AI Writing Tool](https://app.writesonic.com/login)
 + [Chat use cases](https://tools.wetware.pl/chat.html)
 
 
