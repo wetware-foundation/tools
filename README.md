@@ -10,9 +10,9 @@ tools.wetware.pl - nasze narzędzia, software, hardware, ...
 
 ## AI chats
 
-+ [Jasper Chat | AI Chat for Content Creators](https://www.jasper.ai/chat)
++ [Jasper Chat - AI Chat for Content Creators](https://www.jasper.ai/chat)
 + [Chat GPT](https://chat.openai.com/auth/login)
-
++ [You.com - The AI Search Engine You Control](https://you.com/)
 
 ## Examples
 
